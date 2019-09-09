@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">About me</string>
+
+    <string name="name_text">Tauan Tathiell</string>
+    <string name="name_text_description">It is the user name</string>
+
+    <string name="bio_text">Hi my name is Tauan Tathiell,
+    \n\nI love Computers and games,
+    \n\nNow I am studying about Kotlin to be a mobile developer,
+    \n\nWhen i get this, i am going to study more about architecture and Flutter.
+
+    \n\nI love Computers and games,
+    \n\nNow I am studying about Kotlin to be a mobile developer,
+    \n\nWhen i get this, i am going to study more about architecture and Flutter.
+
+    \n\nI love Computers and games,
+    \n\nNow I am studying about Kotlin to be a mobile developer,
+    \n\nWhen i get this, i am going to study more about architecture and Flutter.
+    </string>
+
+    <string name="yellow_star">Yellow Star</string>
+</resources>
